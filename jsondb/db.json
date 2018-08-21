@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "password1",
+      "name": "Dan Abramov",
+      "token": "b6c366ee-ac11-480b-9b5f-8914c35a6f57"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "password2",
+      "name": "Addy Osmani",
+      "token": "5ed0ee67-0ffc-482b-b620-01ae1653566f"
+    }
+  ]
+}
